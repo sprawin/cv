@@ -1,0 +1,65 @@
+.top-container
+{
+    background-color: #e6f6e5;
+}
+.cloud-1
+{
+    display: block;
+    margin-left: 60%;
+}
+.top-container-1
+{
+    text-align: center;
+}
+.mountain
+{
+    display: block;
+    margin-top: 0%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cloud-2
+{
+    display: block;
+    margin-left: 25%;
+}
+.middle-container-1
+{
+    text-align: center;
+}
+.profile
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    width: 150px;
+    height: 150px;
+}
+.desc
+{
+    margin-top: 0%;
+    display: inline-block;
+    width: 40%;
+}
+h1{
+    text-align: center;
+}
+.table
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.bottom-container
+{
+    background-color: rgb(221, 228, 247);
+    text-align: center;
+}
+.contactTable
+{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
